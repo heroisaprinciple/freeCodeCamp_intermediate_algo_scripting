@@ -1,0 +1,1 @@
+All problems solved in the Intermediate Algo Scripting in JS Data Structures and Algorithms by freeCodeCamp
